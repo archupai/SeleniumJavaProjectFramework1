@@ -1,0 +1,10 @@
+package cucumberTest.cucumberTest;
+
+import org.junit.runner.RunWith;
+
+@RunWith(Suite.class)
+@SuiteClasses({Myfirstclass.class,Mysecondclass.class})
+
+public class Suiteclass{
+
+}
